@@ -9,5 +9,3 @@ def mass_download_the_magpi_issues():
         webbrowser.open(link)
 
 mass_download_the_magpi_issues()
-
-# This is a test
